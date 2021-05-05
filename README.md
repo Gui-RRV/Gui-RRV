@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Gui-RRV
 - 👀 I’m interested in web technologies and everything about web !
-- 🌱 I’m currently learning Symfony and my first baby steps in Rust
+- 🌱 I’m currently learning Symfony and my first baby steps in Node.JS
 - 📫 How to reach me : rorive.guillaume@gmail.com
 
 <!---
